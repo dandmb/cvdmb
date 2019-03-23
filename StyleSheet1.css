@@ -83,13 +83,16 @@ p{
     font-weight:bold;
     font-style:italic;
     font-family:Arial;
-    color:cornflowerblue;
+    color:red;
     font-size:15px;
 }
 li {
     font-weight: bold;
     font-style: italic;
     font-family: Arial;
-    color: cornflowerblue;
+    color: red;
     font-size: 15px
+}
+#son{
+    color:white;
 }
