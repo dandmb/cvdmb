@@ -11,30 +11,30 @@
     text-align:center;
 }
 .firstdiv {
-    background-color: gold;
+    background-color: black;
     
     height: 450px;
     margin-left: 20px;
 }
 .secdivun {
-    background-color:gold;
+    background-color:black;
     margin-left: 20px;
 }
 .thirddivun {
-    background-color: gold;
+    background-color: black;
     margin-left: 20px;
 }
 .fourthdivun {
-    background-color: gold;
+    background-color: black;
     margin-left: 20px;
 }
 
 .fivethdivun {
-    background-color: gold;
+    background-color: black;
     margin-left: 20px;
 }
 .sixthdivun {
-    background-color: gold;
+    background-color: black;
     margin-left: 20px;
     margin-bottom:20px;
 }
@@ -59,7 +59,7 @@
     padding-bottom: 30px;
 }
 .pli{
-    margin-left: 80px;
+    margin-left: 90px;
 }
 .pli2 {
     margin-left: 55px;
@@ -74,23 +74,36 @@
 .pli5 {
     margin-left: 40px;
 }
-h2{
-    background-color:black;
-    color:white
+.pli6 {
+    margin-left: 100px;
 }
 
+.pli7 {
+    margin-left: 70px;
+}
+
+.pli8 {
+    margin-left: 50px;
+}
+h2{
+    background-color:red;
+    color:white
+}
+h3 {
+    color: cornflowerblue;
+}
 p{
     font-weight:bold;
     font-style:italic;
     font-family:Arial;
-    color:red;
+    color:white;
     font-size:15px;
 }
 li {
     font-weight: bold;
     font-style: italic;
     font-family: Arial;
-    color: red;
+    color: white;
     font-size: 15px
 }
 #son{
