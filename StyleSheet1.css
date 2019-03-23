@@ -1,3 +1,95 @@
-﻿body {
+﻿#maindiv {
+    
+    margin:20px;
+    background-color:cornflowerblue;
+}
+#annonce{
+    font-size:50px;
+    font-family:Arial;
+    color:white;
+    background-color:black;
+    text-align:center;
+}
+.firstdiv {
+    background-color: gold;
+    
+    height: 450px;
+    margin-left: 20px;
+}
+.secdivun {
     background-color:gold;
+    margin-left: 20px;
+}
+.thirddivun {
+    background-color: gold;
+    margin-left: 20px;
+}
+.fourthdivun {
+    background-color: gold;
+    margin-left: 20px;
+}
+
+.fivethdivun {
+    background-color: gold;
+    margin-left: 20px;
+}
+.sixthdivun {
+    background-color: gold;
+    margin-left: 20px;
+    margin-bottom:20px;
+}
+.sixthdivunbis {
+    background-color: black;
+    color:white;
+    text-align: center
+}
+.toff {
+    margin-left: 20px;
+    float: left;
+}
+
+#identite1 {
+    
+    margin-left: 300px;
+}
+.dd {
+    font-weight:bold;
+    font-family: Arial, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 20px;
+    padding-bottom: 30px;
+}
+.pli{
+    margin-left: 80px;
+}
+.pli2 {
+    margin-left: 55px;
+}
+.pli3 {
+    margin-left: 25px;
+}
+.pli4 {
+    margin-left: 20px;
+}
+
+.pli5 {
+    margin-left: 40px;
+}
+h2{
+    background-color:black;
+    color:white
+}
+
+p{
+    font-weight:bold;
+    font-style:italic;
+    font-family:Arial;
+    color:cornflowerblue;
+    font-size:15px;
+}
+li {
+    font-weight: bold;
+    font-style: italic;
+    font-family: Arial;
+    color: cornflowerblue;
+    font-size: 15px
 }
